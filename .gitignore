@@ -1,0 +1,17 @@
+# Archivos generados automáticamente
+*.dproj.local
+*.identcache
+*.res
+
+# Carpetas de compilación
+Win32/
+Win64/
+Debug/
+Release/
+__history/
+__recovery/
+
+# Archivos de usuario/IDE específicos
+*.local
+*.~*
+*.tds
